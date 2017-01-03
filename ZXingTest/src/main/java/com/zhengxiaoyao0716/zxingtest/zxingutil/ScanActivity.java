@@ -11,6 +11,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
+ * 扫码界面.
  * Created by zhengxiaoyao0716 on 2015/11/26.
  */
 public class ScanActivity extends Activity {

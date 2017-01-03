@@ -1,7 +1,5 @@
 package com.zhengxiaoyao0716.zxingtest.net;
 
-import android.util.Log;
-
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.net.HttpURLConnection;
